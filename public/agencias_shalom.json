@@ -1,0 +1,1130 @@
+{
+    "Amazonas": {
+        "Chachapoyas": {
+            "Chachapoyas": [
+                "Chachapoyas Co Dos De Mayo",
+                "Chachapoyas Jr Grau"
+            ]
+        },
+        "Luya": {
+            "Luya": [
+                "Luya"
+            ]
+        },
+        "Bongara": {
+            "Jazan": [
+                "Pedro Ruiz"
+            ]
+        },
+        "Utcubamba": {
+            "Bagua Grande": [
+                "Bagua Grande"
+            ]
+        }
+    },
+    "Ancash": {
+        "Huarmey": {
+            "Huarmey": [
+                "Huarmey"
+            ]
+        },
+        "Huaraz": {
+            "Huaraz": [
+                "Huaraz"
+            ]
+        },
+        "Carhuaz": {
+            "Carhuaz": [
+                "Carhuaz"
+            ]
+        },
+        "Casma": {
+            "Casma": [
+                "Casma"
+            ]
+        },
+        "Yungay": {
+            "Yungay": [
+                "Yungay"
+            ]
+        },
+        "Huaylas": {
+            "Caraz": [
+                "Caraz"
+            ]
+        },
+        "Santa": {
+            "Nuevo Chimbote": [
+                "Ovalo De La Familia",
+                "Garatea",
+                "Tres De Octubre",
+                "Av. Pacífico Belen"
+            ],
+            "Chimbote": [
+                "Av. Los Pescadores Co",
+                "Av Enrique Meiggs",
+                "Av Jose Galvez"
+            ],
+            "Santa": [
+                "Santa"
+            ]
+        }
+    },
+    "Apurimac": {
+        "Andahuaylas": {
+            "Andahuaylas": [
+                "Andahuaylas"
+            ]
+        },
+        "Abancay": {
+            "Abancay": [
+                "Abancay"
+            ]
+        }
+    },
+    "Arequipa": {
+        "Caraveli": {
+            "Chala": [
+                "Chala"
+            ]
+        },
+        "Camana": {
+            "Camana": [
+                "Camana"
+            ]
+        },
+        "Caylloma": {
+            "Majes": [
+                "Majes Pedregal"
+            ]
+        },
+        "Arequipa": {
+            "La Joya": [
+                "La Joya"
+            ],
+            "Yura": [
+                "Yura"
+            ],
+            "Cerro Colorado": [
+                "Ciudad Municipal",
+                "Autopista La Joya",
+                "Asoc Las Flores - Av 54",
+                "Asoc. Nuevo Horizonte - Av. 54",
+                "Zamacola",
+                "Av Pumacahua",
+                "Av Los Incas"
+            ],
+            "Cayma": [
+                "Av Charcani",
+                "Plaza La Tomilla"
+            ],
+            "Uchumayo": [
+                "Uchumayo"
+            ],
+            "Arequipa": [
+                "Arequipa Co"
+            ],
+            "Alto Selva Alegre": [
+                "Av Lima",
+                "Av Augusto Salazar Bondy"
+            ],
+            "Jacobo Hunter": [
+                "Jacobo Hunter"
+            ],
+            "Miraflores": [
+                "Miraflores Arequipa"
+            ],
+            "Mariano Melgar": [
+                "Mariano Melgar"
+            ],
+            "Paucarpata": [
+                "Urb Manuel Prado",
+                "Av Jesus"
+            ],
+            "Socabaya": [
+                "Av Socabaya - Los Toritos",
+                "Av. Horacio Zevallos"
+            ]
+        },
+        "Islay": {
+            "Mollendo": [
+                "Mollendo Terminal Terrestre",
+                "Cercado Mollendo"
+            ]
+        }
+    },
+    "Ayacucho": {
+        "Huanta": {
+            "Huanta": [
+                "Huanta"
+            ]
+        },
+        "Huamanga": {
+            "Ayacucho": [
+                "Ayacucho Co"
+            ],
+            "Jesus Nazareno": [
+                "Ayacucho Jesús Nazareno"
+            ]
+        }
+    },
+    "Cajamarca": {
+        "Cajabamba": {
+            "Cajabamba": [
+                "Cajabamba"
+            ]
+        },
+        "San Marcos": {
+            "Pedro Galvez": [
+                "San Marcos"
+            ]
+        },
+        "Cajamarca": {
+            "Jesus": [
+                "Huaraclla"
+            ],
+            "Los Banos Del Inca": [
+                "Baños Del Inca"
+            ],
+            "Cajamarca": [
+                "Cajamarca Co",
+                "Cajamarca Horacio Zevallos",
+                "Barrio San Jose",
+                "Huambocancha Baja"
+            ]
+        },
+        "Contumaza": {
+            "Chilete": [
+                "Chilete"
+            ],
+            "Yonan": [
+                "Tembladera Cajamarca"
+            ]
+        },
+        "San Pablo": {
+            "San Pablo": [
+                "San Pablo Cajamarca"
+            ]
+        },
+        "Celendin": {
+            "Celendin": [
+                "Celendin"
+            ]
+        },
+        "San Miguel": {
+            "San Miguel": [
+                "San Miguel Cajamarca"
+            ]
+        },
+        "Hualgayoc": {
+            "Bambamarca": [
+                "Bambamarca"
+            ]
+        },
+        "Chota": {
+            "Chota": [
+                "Chota"
+            ]
+        },
+        "Cutervo": {
+            "Cutervo": [
+                "Cutervo"
+            ]
+        },
+        "Jaen": {
+            "Jaen": [
+                "Jaen"
+            ]
+        },
+        "San Ignacio": {
+            "San Ignacio": [
+                "San Ignacio"
+            ]
+        }
+    },
+    "Callao": {
+        "Callao": {
+            "Callao": [
+                "Callao Faucett",
+                "Av Quilca",
+                "Av. Canta Callao"
+            ],
+            "Bellavista": [
+                "Bellavista Callao"
+            ],
+            "La Perla": [
+                "Ovalo La Perla"
+            ],
+            "Ventanilla": [
+                "Ventanilla",
+                "Pachacútec"
+            ]
+        }
+    },
+    "Cusco": {
+        "La Convencion": {
+            "Santa Ana": [
+                "Quillabamba"
+            ]
+        },
+        "Urubamba": {
+            "Urubamba": [
+                "Cusco Urubamba"
+            ],
+            "Chinchero": [
+                "Chinchero"
+            ]
+        },
+        "Anta": {
+            "Anta": [
+                "Anta Izcuchaca"
+            ]
+        },
+        "Calca": {
+            "Calca": [
+                "Cusco Calca"
+            ],
+            "Pisac": [
+                "Pisac"
+            ]
+        },
+        "Cusco": {
+            "Cusco": [
+                "Tica Tica"
+            ],
+            "Santiago": [
+                "Av Antonio Lorena",
+                "Urb. Bancopata Av. Industrial"
+            ],
+            "Wanchaq": [
+                "Av Pachacutec",
+                "Cusco Co Parque Industrial",
+                "Velasco Astete"
+            ],
+            "San Sebastian": [
+                "Cachimayo - San Sebastian",
+                "Vía Expresa Sur"
+            ],
+            "San Jeronimo": [
+                "San Jeronimo"
+            ]
+        },
+        "Quispicanchi": {
+            "Urcos": [
+                "Urcos"
+            ]
+        },
+        "Canchis": {
+            "Combapata": [
+                "Combapata"
+            ],
+            "Sicuani": [
+                "Sicuani Co Ovalo San Andres"
+            ]
+        },
+        "Espinar": {
+            "Yauri ( Espinar )": [
+                "Espinar"
+            ]
+        }
+    },
+    "Huancavelica": {
+        "Huancavelica": {
+            "Huancavelica": [
+                "Huancavelica"
+            ]
+        }
+    },
+    "Huanuco": {
+        "Ambo": {
+            "Ambo": [
+                "Ambo"
+            ]
+        },
+        "Huanuco": {
+            "Huanuco": [
+                "Jr Aguilar"
+            ],
+            "Amarilis": [
+                "Amarilis Co"
+            ]
+        },
+        "Leoncio Prado": {
+            "Rupa Rupa": [
+                "Tingo Maria Co Buenos Aires",
+                "Tingo María - Amazonas"
+            ],
+            "Jose Crespo Y Castil": [
+                "Aucayacu"
+            ]
+        }
+    },
+    "Ica": {
+        "Chincha": {
+            "Pueblo Nuevo": [
+                "Chincha Pueblo Nuevo"
+            ],
+            "Chincha Alta": [
+                "Prolong Luis Massaro Co",
+                "Calle Los Angeles"
+            ]
+        },
+        "Pisco": {
+            "San Clemente": [
+                "San Clemente"
+            ],
+            "Pisco": [
+                "Av Abraham Valdelomar Co",
+                "La Villa Cruce Pisco"
+            ]
+        },
+        "Ica": {
+            "Salas": [
+                "Salas Ica"
+            ],
+            "La Tinguina": [
+                "La Tinguiña"
+            ],
+            "Ica": [
+                "Ica Co San Joaquin",
+                "Ica Av. Jj Elias",
+                "Ica Urb. Manzanilla"
+            ],
+            "Parcona": [
+                "Parcona"
+            ],
+            "Santiago": [
+                "Ica Santiago"
+            ]
+        },
+        "Nazca": {
+            "El Ingenio": [
+                "El Ingenio"
+            ],
+            "Nazca": [
+                "Nazca"
+            ],
+            "Marcona": [
+                "San Juan De Marcona"
+            ]
+        }
+    },
+    "Junin": {
+        "Yauli": {
+            "La Oroya": [
+                "La Oroya"
+            ]
+        },
+        "Tarma": {
+            "Tarma": [
+                "Tarma"
+            ]
+        },
+        "Jauja": {
+            "Jauja": [
+                "Jauja"
+            ]
+        },
+        "Concepcion": {
+            "Concepcion": [
+                "Concepcion"
+            ]
+        },
+        "Chupaca": {
+            "Chupaca": [
+                "Chupaca"
+            ]
+        },
+        "Huancayo": {
+            "San Agustin": [
+                "San Agustin De Cajas"
+            ],
+            "El Tambo": [
+                "Av Mariscal Castilla Co Parque Industrial",
+                "Pio Pata"
+            ],
+            "Huancayo": [
+                "Huancayo Jr. Ica",
+                "Terminal Los Andes",
+                "San Carlos Huancayo"
+            ],
+            "Chilca": [
+                "Chilca Huancayo"
+            ]
+        },
+        "Chanchamayo": {
+            "San Ramon": [
+                "San Ramón"
+            ],
+            "La Merced": [
+                "La Merced"
+            ],
+            "Perene": [
+                "Perene"
+            ],
+            "Bajo Pichanaqui": [
+                "Pichanaki"
+            ]
+        },
+        "Satipo": {
+            "Satipo": [
+                "Satipo"
+            ],
+            "Mazamari": [
+                "Mazamari"
+            ],
+            "Pangoa": [
+                "Pangoa"
+            ]
+        }
+    },
+    "La Libertad": {
+        "Viru": {
+            "Chao": [
+                "Chao"
+            ],
+            "Viru": [
+                "Puente Viru",
+                "Viru Centro"
+            ]
+        },
+        "Trujillo": {
+            "Moche": [
+                "Moche"
+            ],
+            "Trujillo": [
+                "Trujillo La Perla",
+                "Atahualpa",
+                "Calle Santa Cruz - America Sur",
+                "Calle Liverpool",
+                "Av Hnos Uceda - America Norte"
+            ],
+            "Victor Larco Herrera": [
+                "Av Larco"
+            ],
+            "El Porvenir": [
+                "Av Hermanos Angulo",
+                "Jr. Cahuide",
+                "Av. Las Magnolias",
+                "Alto Trujillo"
+            ],
+            "La Esperanza": [
+                "Av Tahuantinsuyo",
+                "Wichanzao"
+            ],
+            "Huanchaco": [
+                "Av. Panamericana Norte Co - Huanchaco"
+            ]
+        },
+        "Sanchez Carrion": {
+            "Huamachuco": [
+                "Huamachuco"
+            ]
+        },
+        "Otuzco": {
+            "Otuzco": [
+                "Otuzco"
+            ]
+        },
+        "Ascope": {
+            "Paijan": [
+                "Paijan"
+            ]
+        },
+        "Pacasmayo": {
+            "San Pedro De Lloc": [
+                "San Pedro De Lloc"
+            ],
+            "Pacasmayo": [
+                "Pacasmayo Centro",
+                "Pacasmayo Las Palmeras"
+            ],
+            "Guadalupe": [
+                "Ciudad De Dios",
+                "Guadalupe La Libertad"
+            ]
+        },
+        "Chepen": {
+            "Chepen": [
+                "Chepen"
+            ],
+            "Pacanga": [
+                "Pacanguilla"
+            ]
+        }
+    },
+    "Lambayeque": {
+        "Chiclayo": {
+            "Monsefu": [
+                "Monsefu"
+            ],
+            "Tuman": [
+                "Tuman"
+            ],
+            "La Victoria": [
+                "Chiclayo Co"
+            ],
+            "Pimentel": [
+                "Pimentel"
+            ],
+            "Chiclayo": [
+                "Mariscal Nieto",
+                "Miraflores Chiclayo"
+            ],
+            "Jose Leonardo Ortiz": [
+                "Calle Tahuantinsuyo",
+                "Av Balta Cdra. 36"
+            ]
+        },
+        "Ferrenafe": {
+            "Ferrenafe": [
+                "Ferreñafe"
+            ]
+        },
+        "Lambayeque": {
+            "Lambayeque": [
+                "Lambayeque"
+            ],
+            "Tucume": [
+                "Tucume"
+            ],
+            "Morrope": [
+                "Morrope"
+            ],
+            "Jayanca": [
+                "Jayanca"
+            ],
+            "Motupe": [
+                "Motupe"
+            ],
+            "Olmos": [
+                "Olmos"
+            ]
+        }
+    },
+    "Lima": {
+        "Lima": {
+            "San Martin De Porres": [
+                "Av. Peru 15",
+                "Fiori",
+                "Germán Aguirre",
+                "Av Jose Granda Cdra. 25",
+                "Av Jose Granda Cdra 38",
+                "Av. Universitaria Cdra. 16",
+                "Smp-av. Proceres",
+                "Av. Lima Cdra 38",
+                "Av. Carlos Izaguirre Cuadra 23",
+                "Av. Dominicos Cdra 14",
+                "Av. Canta Callao Con Alisos",
+                "Av. Canta Callao Con Izaguirre",
+                "Av. Gerardo Unger Cdra 64"
+            ],
+            "Cercado Lima": [
+                "Malvinas - Jr. Ricardo Treneman",
+                "Malvinas - Jr. Garcia Villón",
+                "Lima Av Tingo María"
+            ],
+            "Independencia": [
+                "Plaza Norte S. Express",
+                "Plaza Norte Entregas",
+                "La Cincuenta"
+            ],
+            "Rimac": [
+                "Rimac Guardia Republicana Cdra. 9",
+                "Rimac Av. Amancaes"
+            ],
+            "Brena": [
+                "Av Venezuela",
+                "Jr. Huaraz - Breña"
+            ],
+            "Los Olivos": [
+                "Av. Angelica Gamarra",
+                "Av. Carlos Izaguirre Cdra. 14",
+                "Av. Las Palmeras",
+                "Av. Los Platinos",
+                "Av Huandoy Con Marañon",
+                "Av Huandoy Con Av Central",
+                "Pro",
+                "Av. Dos De Octubre"
+            ],
+            "La Victoria": [
+                "Jr. Luna Pizarro",
+                "Jr. Raymondi",
+                "Av Mexico Co",
+                "Av. Canada"
+            ],
+            "El Agustino": [
+                "El Agustino"
+            ],
+            "Jesus Maria": [
+                "Jesus Maria"
+            ],
+            "Pueblo Libre": [
+                "Av. La Marina"
+            ],
+            "San Juan De Lurigancho": [
+                "Av. 13 De Enero",
+                "Sjl- Las Flores",
+                "Sjl-av.proceres",
+                "Jr Chinchaysuyo Cdra 4",
+                "Av. Santa Rosa Cruce Av. El Sol",
+                "Canto Grande",
+                "Los Pinos",
+                "Av Santa Rosa Urb Los Alamos",
+                "Campoy",
+                "Bayovar",
+                "Av. Del Mercado",
+                "Av. Central",
+                "Cruz de Motupe"
+            ],
+            "Magdalena Del Mar": [
+                "Magdalena Del Mar"
+            ],
+            "Lince": [
+                "Jr Casanova Con Petit Thouars"
+            ],
+            "Ate-vitarte": [
+                "Puente Santa Anita",
+                "Los Sauces",
+                "Av El Sol",
+                "Av Marco Puente",
+                "Av Esperanza",
+                "Santa Clara",
+                "Huaycan Entrada",
+                "Huaycan Av Jose Carlos Mariategui"
+            ],
+            "Comas": [
+                "Av. Universitaria",
+                "Av. Trapiche",
+                "Año Nuevo"
+            ],
+            "San Borja": [
+                "Aviacion 2819",
+                "Av. Angamos"
+            ],
+            "Santa Anita": [
+                "Av. Huarochirí",
+                "Av Santa Rosa - Sta Anita",
+                "Av Huarochiri Envios"
+            ],
+            "Surquillo": [
+                "Rep. De Panama",
+                "Av. Principal"
+            ],
+            "La Molina": [
+                "Av La Fontana",
+                "Av Flora Tristan",
+                "Los Fresnos",
+                "Av. La Molina Cdra. 35"
+            ],
+            "Santiago De Surco": [
+                "Higuereta",
+                "Av Tomas Marsano - La Bolichera",
+                "Surco Mateo Pumacahua"
+            ],
+            "Carabayllo": [
+                "Carabayllo Establo",
+                "Tungasuca",
+                "Av Tupac Amaru Km. 19",
+                "Av Tupac Amaru Cdra. 34",
+                "Av Jose Saco Rojas",
+                "Av. Tupac Amaru Km. 23.5",
+                "Santo Domingo"
+            ],
+            "Lurigancho": [
+                "Santa María De Huachipa",
+                "Chosica"
+            ],
+            "San Juan De Miraflores": [
+                "Atocongo",
+                "Av Solidaridad Pamplona Alta",
+                "Maria Auxiliadora",
+                "Av. Canevaro"
+            ],
+            "Chorrillos": [
+                "Chorrillos Los Faisanes",
+                "Chorrillos",
+                "Las Delicias De Villa"
+            ],
+            "Puente Piedra": [
+                "Ovalo Puente Piedra",
+                "Av. San Lorenzo",
+                "Puente Arica",
+                "Zapallal"
+            ],
+            "Villa Maria Del Triunfo": [
+                "Av. Villa Maria",
+                "Pesquero",
+                "Las Conchitas",
+                "Av. Lima - Vmt"
+            ],
+            "Pachacamac": [
+                "La Curva De Manchay"
+            ],
+            "Villa El Salvador": [
+                "01 De Mayo",
+                "Av. Cesar Vallejo",
+                "Óvalo Mariátegui",
+                "Av. Pastor Sevilla"
+            ],
+            "Cieneguilla": [
+                "Cieneguilla Km. 14.5"
+            ],
+            "Ancon": [
+                "Ancón Santa Rosa"
+            ],
+            "Lurin": [
+                "Puente Lurin",
+                "Nuevo Lurin"
+            ]
+        },
+        "Huarochiri": {
+            "San Antonio": [
+                "Jicamarca"
+            ]
+        },
+        "Huaral": {
+            "Chancay": [
+                "Chancay"
+            ],
+            "Huaral": [
+                "Huaral"
+            ]
+        },
+        "Cañete": {
+            "Chilca": [
+                "Chilca"
+            ],
+            "Mala": [
+                "Mala"
+            ],
+            "San Vicente De Canet": [
+                "Cañete Co San Vicente"
+            ],
+            "Imperial": [
+                "Cañete Imperial"
+            ]
+        },
+        "Huaura": {
+            "Sayan": [
+                "Sayan"
+            ],
+            "Huacho": [
+                "Salaverry Huacho Co",
+                "Huacho Av Indacochea"
+            ],
+            "Huaura": [
+                "Huaura"
+            ]
+        },
+        "Barranca": {
+            "Barranca": [
+                "Barranca"
+            ],
+            "Paramonga": [
+                "Paramonga"
+            ]
+        }
+    },
+    "Loreto": {
+        "Alto Amazonas": {
+            "Yurimaguas": [
+                "Yurimaguas"
+            ]
+        },
+        "Maynas": {
+            "Iquitos San Juan Bautista": [
+                "Av Participacion Parcela",
+                "Av Jose A. Quiñones"
+            ],
+            "Iquitos": [
+                "Iquitos Jr Francisco Bolognesi",
+                "Iquitos Co Jr. Pablo Rossell"
+            ]
+        }
+    },
+    "Moquegua": {
+        "Mariscal Nieto": {
+            "Moquegua": [
+                "Quebrada Las Lechuzas Co",
+                "San Antonio",
+                "Calle Lima"
+            ]
+        },
+        "Ilo": {
+            "Pacocha": [
+                "Ilo Pacocha"
+            ],
+            "Ilo": [
+                "Ilo Puerto",
+                "Ilo Co Pampa Inalambrica"
+            ]
+        }
+    },
+    "Pasco": {
+        "Pasco": {
+            "Huayllay": [
+                "Huayllay"
+            ],
+            "Chaupimarca": [
+                "Cerro De Pasco"
+            ]
+        },
+        "Oxapampa": {
+            "Oxapampa": [
+                "Oxapampa"
+            ],
+            "Villa Rica": [
+                "Villa Rica"
+            ]
+        }
+    },
+    "Piura": {
+        "Huancabamba": {
+            "Huancabamba": [
+                "Huancabamba"
+            ]
+        },
+        "Morropon": {
+            "Morropon": [
+                "Morropon"
+            ],
+            "Chulucanas": [
+                "Chulucanas"
+            ]
+        },
+        "Sechura": {
+            "Sechura": [
+                "Sechura"
+            ]
+        },
+        "Piura": {
+            "La Union": [
+                "La Union"
+            ],
+            "Catacaos": [
+                "Catacaos"
+            ],
+            "Castilla": [
+                "Av Tacna",
+                "Tacala"
+            ],
+            "26 De Octubre": [
+                "Av. Gullman",
+                "Aahh Santa Rosa Piura",
+                "Calle Emaús",
+                "Parque Industrial Co Piura Futura"
+            ],
+            "Piura": [
+                "Av. Luis Eguiguren",
+                "Av. Grau"
+            ],
+            "Tambo Grande": [
+                "Tambo Grande"
+            ],
+            "Las Lomas": [
+                "Las Lomas"
+            ]
+        },
+        "Ayabaca": {
+            "Ayabaca": [
+                "Ayabaca"
+            ],
+            "Paimas": [
+                "Paimas"
+            ]
+        },
+        "Sullana": {
+            "Sullana": [
+                "Sullana Co Zona Industrial",
+                "Sullana Santa Rosa"
+            ],
+            "Bellavista": [
+                "Bellavista Sullana"
+            ],
+            "Ignacio Escudero": [
+                "Ignacio Escudero"
+            ]
+        },
+        "Paita": {
+            "Paita": [
+                "Paita"
+            ]
+        },
+        "Talara": {
+            "Parinas": [
+                "Talara Baja Co Asoc California"
+            ],
+            "El Alto": [
+                "El Alto"
+            ],
+            "Los Organos": [
+                "Los Organos"
+            ],
+            "Mancora": [
+                "Máncora"
+            ]
+        }
+    },
+    "Puno": {
+        "Melgar": {
+            "Ayaviri": [
+                "Ayaviri"
+            ]
+        },
+        "Azangaro": {
+            "Azangaro": [
+                "Azangaro"
+            ]
+        },
+        "San Roman": {
+            "Juliaca": [
+                "Av. Lampa",
+                "Av Independencia",
+                "Las Mercedes",
+                "Juliaca San Santiago Co",
+                "Av. Huancane Cdra. 9",
+                "Av. Modesto Borda"
+            ]
+        },
+        "Puno": {
+            "Puno": [
+                "Alto Puno",
+                "Av Costanera",
+                "Salcedo"
+            ]
+        },
+        "El Collao": {
+            "Ilave": [
+                "Ilave"
+            ]
+        },
+        "Chucuito": {
+            "Desaguadero": [
+                "Desaguadero"
+            ]
+        }
+    },
+    "San Martin": {
+        "Tocache": {
+            "Uchiza": [
+                "Uchiza"
+            ],
+            "Tocache": [
+                "Jr Fredy Aliaga Co",
+                "Av Fernando Belaunde"
+            ]
+        },
+        "Mariscal Caceres": {
+            "Juanjui": [
+                "Juanjuí"
+            ]
+        },
+        "Bellavista": {
+            "Bellavista": [
+                "San Martin Bellavista"
+            ]
+        },
+        "Picota": {
+            "Picota": [
+                "Picota"
+            ]
+        },
+        "San Martin": {
+            "Tarapoto": [
+                "Tarapoto Co Jr Alfonso Ugarte",
+                "Jr. Ramón Castilla",
+                "Jr. Tahuantinsuyo",
+                "Jr Leoncio Prado"
+            ],
+            "La Banda De Shilcayo": [
+                "Tarapoto La Banda De Shilcayo"
+            ],
+            "Morales": [
+                "Tarapoto Jr. Sargento Lorez"
+            ]
+        },
+        "Lamas": {
+            "Lamas": [
+                "Lamas"
+            ]
+        },
+        "Rioja": {
+            "Rioja": [
+                "Rioja"
+            ],
+            "Nueva Cajamarca": [
+                "Nueva Cajamarca"
+            ],
+            "Pardo Miguel": [
+                "Pardo Miguel Naranjos"
+            ]
+        },
+        "Moyobamba": {
+            "Moyobamba": [
+                "Moyobamba"
+            ]
+        }
+    },
+    "Tacna": {
+        "Tacna": {
+            "Ciudad Nueva": [
+                "Tacna Ciudad Nueva"
+            ],
+            "Tacna": [
+                "Tacna Co Av. Jorge Basadre",
+                "Av Vigil",
+                "Av. Arias Araguez"
+            ],
+            "Coronel Gregorio Albarracin Lanchipa": [
+                "Villa San Francisco",
+                "Av. Municipal"
+            ]
+        }
+    },
+    "Tumbes": {
+        "Tumbes": {
+            "Corrales": [
+                "Corrales"
+            ],
+            "La Cruz": [
+                "La Cruz Tumbes"
+            ],
+            "Tumbes": [
+                "Pampa Grande Tumbes",
+                "Tumbes Puyango",
+                "Tumbes Co - Panamericana Norte Km 2360",
+                "Tumbes - Av Arica"
+            ]
+        },
+        "Contralmirante Villa": {
+            "Zorritos": [
+                "Zorritos"
+            ]
+        },
+        "Zarumilla": {
+            "Zarumilla": [
+                "Zarumilla"
+            ],
+            "Aguas Verdes": [
+                "Aguas Verdes"
+            ]
+        }
+    },
+    "Ucayali": {
+        "Padre Abad": {
+            "Aguaytia": [
+                "Aguaytía"
+            ]
+        },
+        "Coronel Portillo": {
+            "Pucallpa Yarinacocha": [
+                "Pucallpa Co Federico Basadre",
+                "Yarinacocha Centro"
+            ],
+            "Pucallpa Calleria": [
+                "Calleria"
+            ]
+        }
+    }
+}

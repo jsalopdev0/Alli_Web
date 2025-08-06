@@ -1,38 +1,114 @@
-.App {
-  text-align: center;
+/* App.css */
+
+body {
+  background-color: #fff0f5;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1 {
+  color: #d81b60;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px #ffc1e3;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.card {
+  background-color: #fffafd;
+  border: 2px dashed #ffb6c1;
+  border-radius: 15px;
+  box-shadow: 0px 4px 12px rgba(255, 192, 203, 0.4);
+}
+
+.card-title {
+  color: #e91e63;
+  font-weight: bold;
+}
+
+.form-label {
+  color: #d63384;
+}
+
+.form-control {
+  border-radius: 10px;
+  border: 1px solid #ffb6c1;
+}
+
+.btn-primary {
+  background-color: #ff69b4;
+  border: none;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+  background-color: #e91e63;
+}
+
+.etiqueta-box {
+  background-color: #fff5fb;
+  border-radius: 16px;
+  border: 2px dashed #f48fb1;
+  padding: 24px;
+}
+
+.etiqueta-box h2 {
+  font-weight: bold;
+  font-size: 1.4rem;
+  color: #d81b60;
+}
+
+.etiqueta-box p {
+  font-size: 1rem;
+  color: #4b2c2c;
+}
+
+@media (max-width: 768px) {
+  .row {
+    flex-direction: column;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+@media print {
+  body * {
+    visibility: hidden;
+  }
+
+  .etiqueta-print, .etiqueta-print * {
+    visibility: visible;
+  }
+
+  .etiqueta-print {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 58mm;
+    padding: 10px;
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+  }
+
+  .etiqueta-print h2 {
+    font-size: 14px;
+    text-align: center;
+  }
+
+  hr {
+    margin: 8px 0;
+    border-top: 1px dashed #000;
+  }
+}
+.mensaje-final {
+  margin-top: 12px;
+  font-weight: bold;
+  font-size: 12px;
+  color: #d63384;
+  text-align: left; /* <- importante */
 }
 
-.App-link {
-  color: #61dafb;
+.kitty-img {
+  display: block;
+  margin-top: 4px;
+  margin-left: 0;   /* <- asegura que no se centre */
+  width: 55px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+
