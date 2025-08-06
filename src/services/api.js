@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:8080/api';
+const API_BASE_URL = 'https://alli-cases.onrender.com/api';
 
 export const getDepartamentos = () => axios.get(`${API_BASE_URL}/ubigeo/departamentos`);
 export const getProvincias = (departamento) => axios.get(`${API_BASE_URL}/ubigeo/provincias`, { params: { departamento } });
